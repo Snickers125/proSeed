@@ -75,7 +75,7 @@ Benutzen die halbseitge Abschaltung um die erste Spur zu erstellen.
 Bei Nutzung von GuidanceSteering muss die erste Spur (0) am Feldrand sein (`ALT + HOME`).
 Für die zweite Spur verschiebe die GS Spur um die halbe Arbeitsbreite Richtung Feldrand. 
 
-Eine Beschreibung von möglichen Arbeistbreiten und Abständen findest du in diesen PDF Dokumenten: [proSeed.pdf](https://github.com/stijnwop/proSeed/raw/master/docs/ProSeed.pdf) (Page 1: German; Page 2: English)
+Eine Beschreibung von möglichen Arbeistbreiten und Abständen findest du in diesen PDF Dokumenten: [proSeed.pdf](https://github.com/stijnwop/proSeed/raw/master/docs/ProSeed.pdf) (Seite 1: Deutsch; Seite 2: Englisch)
 
 ## Copyright
 Copyright (c) 2020 [Wopster](https://github.com/stijnwop).
